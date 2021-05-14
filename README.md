@@ -6,12 +6,14 @@
 | نام کتاب | فرد ارائه‌دهنده | تاریخ برگزاری جلسه برای ارائه خلاصه کتاب |
 |  ---: |  ---: | ---: |
 | Docker in action | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| ؟ |
+| PHP internal | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| ؟ |
 
 ### لیست کتاب‌های پیشنهادی (علامت ضربدر یعنی این کتاب برای ارائه رزرو شده‌است)
 
 </div>
 
-- [x] Docker in action
+- [x] Docker in action (https://www.manning.com/books/docker-in-action-second-edition)
+- [x] PHP internal online book (https://www.phpinternalsbook.com/)
 
 ---
 
