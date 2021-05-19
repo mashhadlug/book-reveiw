@@ -15,6 +15,7 @@
 - [x] Docker in action (https://www.manning.com/books/docker-in-action-second-edition)
 - [x] PHP internal online book (https://www.phpinternalsbook.com/)
 - [ ] HTTP2 explained (https://http2-explained.haxx.se/)
+- [x] Python Tricks: The Book (https://realpython.com/products/python-tricks-book/)
 
 ---
 
