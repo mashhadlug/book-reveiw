@@ -7,6 +7,7 @@
 |  ---: |  ---: | ---: | ---: |
 | Docker in action | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| پنج‌شنبه ۶ خرداد ۱۴۰۰ | ✅ |
 | PHP internal | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| ؟ | ⏳ |
+ | Python Tricks | امیر مطهری [@mthri](https://github.com/mthri)| ؟ | ⏳ |
 
 ### لیست کتاب‌های پیشنهادی (علامت تیک یعنی این کتاب برای ارائه رزرو شده‌است)
 
