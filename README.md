@@ -5,7 +5,7 @@
 
 | نام کتاب | فرد ارائه‌دهنده | تاریخ برگزاری جلسه برای ارائه خلاصه کتاب | برگزار شد؟ |
 |  ---: |  ---: | ---: | ---: |
-| Docker in action | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| پنج‌شنبه ۶ خرداد ۱۴۰۰ | ✅ |
+| Docker in action | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75) | ؟ | ⏳ |
 | PHP internal | امیرحسین بقایی [@amirbagh75](https://github.com/amirbagh75)| ؟ | ⏳ |
  | Python Tricks | امیر مطهری [@mthri](https://github.com/mthri)| ؟ | ⏳ |
 
