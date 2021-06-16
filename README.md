@@ -5,9 +5,9 @@
 
 | نام کتاب | فرد ارائه‌دهنده | تاریخ برگزاری جلسه برای ارائه خلاصه کتاب | برگزار شد؟ |
 |  ---: |  ---: | ---: | ---: |
-| Docker in action | امیرحسین بقایی [@ohmydevops](https://github.com/ohmydevops) | پنج‌شنبه ۳ تیر ۱۴۰۰ | ⏳ |
-| PHP internal | امیرحسین بقایی [@ohmydevops](https://github.com/ohmydevops)| ؟ | ⏳ |
- | Python Tricks | امیر مطهری [@mthri](https://github.com/mthri)| ؟ | ⏳ |
+| Docker in action | امیرحسین بقایی | پنج‌شنبه ۳ تیر ۱۴۰۰ | ⏳ |
+| PHP internal | امیرحسین بقایی | ؟ | ⏳ |
+ | Python Tricks | امیر مطهری| ؟ | ⏳ |
 
 ### لیست کتاب‌های پیشنهادی (علامت تیک یعنی این کتاب برای ارائه رزرو شده‌است)
 
