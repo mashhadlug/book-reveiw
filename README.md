@@ -5,21 +5,12 @@
 
 | نام کتاب | فرد ارائه‌دهنده | تاریخ برگزاری جلسه برای ارائه خلاصه کتاب | برگزار شد؟ | گزارش جلسه |
 |  ---: |  ---: | ---: | ---: | :---: |
-| Docker in action | امیرحسین بقایی | پنج‌شنبه ۳ تیر ۱۴۰۰ | ✅ | - |
-| PHP internal | امیرحسین بقایی | ؟ | ⏳ | - |
- | Python Tricks | امیر مطهری| ؟ | ⏳ | - |
+| [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه ۳ تیر ۱۴۰۰ | ✅ | - |
+| [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ؟ | ⏳ | - |
+| [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| ؟ | ⏳ | - |
+| [HTTP2 explained](https://http2-explained.haxx.se/) | ? |⏳ | - |
 
-### لیست کتاب‌های پیشنهادی (علامت تیک یعنی این کتاب برای ارائه رزرو شده‌است)
-
-</div>
-
-- [x] Docker in action (https://www.manning.com/books/docker-in-action-second-edition)
-- [x] PHP internal online book (https://www.phpinternalsbook.com/)
-- [x] Python Tricks: The Book (https://realpython.com/products/python-tricks-book/)
-- [ ] HTTP2 explained (https://http2-explained.haxx.se/)
-- [ ] کتاب مبانی بلاکچین؛ مقدمه‌ای غیر فنی در ۲۵ گام 
-
----
+ ---
 
 <div dir='rtl'>
           
