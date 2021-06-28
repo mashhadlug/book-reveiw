@@ -5,10 +5,10 @@
 
 | نام کتاب | فرد ارائه‌دهنده | تاریخ برگزاری جلسه برای ارائه خلاصه کتاب | برگزار شد؟ | گزارش جلسه |
 |  ---: |  ---: | ---: | ---: | :---: |
-| [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه ۳ تیر ۱۴۰۰ | ✅ | - |
-| [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| ؟ | چهارشنبه  - ۹ تیر ۱۴۰۰  | - |
-| [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ؟ | ⏳ | - |
-| [HTTP2 explained](https://http2-explained.haxx.se/) | ? |⏳ | - |
+| [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه - ۳ تیر ۱۴۰۰ | ✅ | - |
+| [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| چهارشنبه  - ۹ تیر ۱۴۰۰  | ⏳  | - |
+| [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
+| [HTTP2 explained](https://http2-explained.haxx.se/) | ? | ? | ⏳ | - |
 
  ---
 
