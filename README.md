@@ -9,6 +9,8 @@
 | [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| چهارشنبه  - ۹ تیر ۱۴۰۰  | ✅  | - |
 | [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
 | [HTTP2 explained](https://http2-explained.haxx.se/) | ? | ? | ⏳ | - |
+| [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
+
 
 <div dir='rtl'>
           
