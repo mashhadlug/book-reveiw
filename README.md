@@ -10,6 +10,7 @@
 | [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
 | [HTTP2 explained](https://http2-explained.haxx.se/) | ? | ? | ⏳ | - |
 | [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
+| [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732) | ? | ? | ⏳ | - |
 
 
 <div dir='rtl'>
