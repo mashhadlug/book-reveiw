@@ -7,8 +7,8 @@
 |  ---: |  ---: | ---: | ---: | :---: |
 | [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه - ۳ تیر ۱۴۰۰ | ✅ | - |
 | [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| چهارشنبه  - ۹ تیر ۱۴۰۰  | ✅  | - |
+ | [HTTP2 explained](https://http2-explained.haxx.se/) | امیرحسین بقایی | چهارشنبه - ۱۶ تیر ۱۴۰۰| ⏳ | - |
 | [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
-| [HTTP2 explained](https://http2-explained.haxx.se/) | ? | ? | ⏳ | - |
 | [HTTP3 explained](https://http3-explained.haxx.se/) | ? | ? | ⏳ | - |
 | [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
 | [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732) | ? | ? | ⏳ | - |
