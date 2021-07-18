@@ -12,6 +12,7 @@
 | [HTTP3 explained](https://http3-explained.haxx.se/) | ? | ? | ⏳ | - |
 | [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
 | [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732) | ? | ? | ⏳ | - |
+| [Large scale systems](https://github.com/donnemartin/system-design-primer) | ? | ? | ⏳ | - |
 
 
 <div dir='rtl'>
