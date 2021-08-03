@@ -13,6 +13,7 @@
 | [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
 | [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732) | ? | ? | ⏳ | - |
 | [Large scale systems](https://github.com/donnemartin/system-design-primer) | ? | ? | ⏳ | - |
+| [How web works](https://github.com/vasanthk/how-web-works) | ? | ? | ⏳ | - |
 
 
 <div dir='rtl'>
