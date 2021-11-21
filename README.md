@@ -14,6 +14,7 @@
 | [Just for Fun](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732) | ? | ? | ⏳ | - |
 | [Large scale systems](https://github.com/donnemartin/system-design-primer) | ? | ? | ⏳ | - |
 | [How web works](https://github.com/vasanthk/how-web-works) | ? | ? | ⏳ | - |
+| [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) | ? | ? | ⏳ | - |
 
 
 <div dir='rtl'>
