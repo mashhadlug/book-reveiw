@@ -8,6 +8,9 @@
 | [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه - ۳ تیر ۱۴۰۰ | ✅ | به زودی|
 | [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| چهارشنبه  - ۹ تیر ۱۴۰۰  | ✅  |  به زودی |
  | [HTTP2 explained](https://http2-explained.haxx.se/) | امیرحسین بقایی | چهارشنبه - ۲۳ تیر ۱۴۰۰| ✅ |  به زودی |
+ | [Kubernetes Operators](https://developers.redhat.com/e-books/kubernetes-operators) | علیرضا ارزه گر | پنج شنبه ۲۷ آذر ۱۴۰۴ | ✅ | به زودی |
+
+ <!--
 | [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
 | [HTTP3 explained](https://http3-explained.haxx.se/) | ? | ? | ⏳ | - |
 | [CPython Internals](https://realpython.com/products/cpython-internals-book/) | ? | ? | ⏳ | - |
@@ -15,7 +18,7 @@
 | [Large scale systems](https://github.com/donnemartin/system-design-primer) | ? | ? | ⏳ | - |
 | [How web works](https://github.com/vasanthk/how-web-works) | ? | ? | ⏳ | - |
 | [Representational State Transfer (REST)](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm) | ? | ? | ⏳ | - |
-
+-->
 
 <div dir='rtl'>
           
