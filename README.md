@@ -8,7 +8,8 @@
 | [Docker in action](https://www.manning.com/books/docker-in-action-second-edition) | امیرحسین بقایی | پنج‌شنبه - ۳ تیر ۱۴۰۰ | ✅ | به زودی|
 | [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) | امیر مطهری| چهارشنبه  - ۹ تیر ۱۴۰۰  | ✅  |  به زودی |
  | [HTTP2 explained](https://http2-explained.haxx.se/) | امیرحسین بقایی | چهارشنبه - ۲۳ تیر ۱۴۰۰| ✅ |  به زودی |
- | [Kubernetes Operators](https://developers.redhat.com/e-books/kubernetes-operators) | علیرضا ارزه گر | پنج شنبه ۲۷ آذر ۱۴۰۴ | ✅ | به زودی |
+ | [Kubernetes Operators](https://developers.redhat.com/e-books/kubernetes-operators) | علیرضا ارزه گر | پنج شنبه ۲۷ آذر ۱۴۰۴ | ✅ | انجام شد |
+ | [How To Open Source](https://howtoopensource.dev/) | علیرضا ارزه گر | پنج شنبه ۱۱ دی ۱۴۰۴ | ✅ | به زودی |
 
  <!--
 | [PHP internal online book](https://www.phpinternalsbook.com/) | امیرحسین بقایی | ? | ⏳ | - |
